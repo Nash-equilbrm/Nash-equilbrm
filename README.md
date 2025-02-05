@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nam</h1>
 <h3 align="center">A passionate game developer from Vietnam</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nash-equilbrm" alt="nash-equilbrm" /></a> </p>
-
 - 🌱 I’m currently learning **Full-stack Game development**
 
 - 👨‍💻 All of my projects are available at [https://nash-equ17ibrium.itch.io](https://nash-equ17ibrium.itch.io)
