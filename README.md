@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nam</h1>
 <h3 align="center">A passionate game developer from Vietnam</h3>
 
-- 🌱 I’m currently learning **Full-stack Game development**
+- 🌱 I’m currently learning **Full-stack Game development** and I've been working on Game Projects since 2023
 
 - 👨‍💻 All of my projects are available at [https://nash-equ17ibrium.itch.io](https://nash-equ17ibrium.itch.io)
 
